@@ -1,6 +1,6 @@
 ---
 title: 블로그 시작합니다! (첫 번째 글)
-date: 2025-12-14 17:00:00 +0900
+date: 2025-12-14 16:51:00 +0900
 categories: [공부, 블로그]
 tags: [github, jekyll, writing]
 ---
